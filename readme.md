@@ -83,6 +83,13 @@ contract Degen is ERC20, ERC20Burnable, Ownable {
 
 ```
 
+## Help
+
+-> version in compiler should be same  as the code
+-> compile the code in injected provider environment
+-> Metamask wallet should have some AVAX to perform the task.
+
+
 ## Authors
 
 Amrita Kumari 
